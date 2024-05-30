@@ -3,4 +3,4 @@
 
 
 This repository contains a collection of Java code examples organized by topic, aimed at helping newbie developers learn Java programming concepts effectively.
-Each topic has subtopic .
+Each topic has subtopic.
