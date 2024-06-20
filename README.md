@@ -6,4 +6,5 @@ This repository contains a collection of Java code examples organized by topic, 
 Each topic has subtopic.
 
 1) Array 
-2) Conditional statement 
+2) Conditional statement
+3) Loops
