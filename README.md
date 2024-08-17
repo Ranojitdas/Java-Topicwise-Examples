@@ -8,3 +8,4 @@ Each topic has subtopic.
 1) Array 
 2) Conditional statement
 3) Loops
+4) Type casting 
