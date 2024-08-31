@@ -12,4 +12,4 @@ Each topic has subtopic.
 5) Object Oriented Programming 
 
    I) Abstraction
-  II) Interference 
+  II) Inheritance
