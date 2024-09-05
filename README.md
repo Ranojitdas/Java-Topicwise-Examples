@@ -1,5 +1,5 @@
 <!--# Java-Topicwise-Examples-->
-<img src="github-header-image (1).png">
+<img src="Github-logo-java.png">
 
 
 This repository contains a collection of Java code examples organized by topic, aimed at helping newbie developers learn Java programming concepts effectively.
