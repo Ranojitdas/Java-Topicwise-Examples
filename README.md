@@ -11,5 +11,8 @@ Each topic has subtopic.
 4) Type casting 
 5) Object Oriented Programming 
 
-   I) Abstraction
-  II) Inheritance
+   I)  Abstraction <br>
+  II)  Inheritance<br>
+ III)  Interface<br>
+  IV)  Encapsulation<br>
+   V)  Polymorphism<br>
